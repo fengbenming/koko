@@ -1,5 +1,6 @@
 {
   "Terminal": {
+    "DefaultTheme": "默认主题",
     "ShareUser": "分享给",
     "ShareUserHelpText": "未选择用户，即允许所有人加入",
     "GetShareUser": "输入用户名",

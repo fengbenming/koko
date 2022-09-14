@@ -1,5 +1,6 @@
 {
   "Terminal": {
+    "DefaultTheme": "デフォルトテーマ",
     "ShareUser": "共有ユーザー",
     "ShareUserHelpText": "ユーザーが選択されていません。つまり、すべての人が参加できます。",
     "GetShareUser": "ユーザー名の入力",

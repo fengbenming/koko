@@ -1,5 +1,6 @@
 {
   "Terminal": {
+    "DefaultTheme": "Default theme",
     "ShareUser": "Share user",
     "ShareUserHelpText": "If no user is selected, everyone is allowed to join",
     "GetShareUser": "Enter username",
